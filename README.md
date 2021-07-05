@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**Emilioj17/Emilioj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h1>My name is <b>Emilio</b>, I'm from Chile and I'm a javascript and python developer.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working for <a href="https://denegocios.cl">denegocios.cl</a> as founder.
+I am looking for experiences in programming.
+
+<hr>
+
+<h2>Skills</h2>
+Some JavaScript and Python coding, since 2020. Attempt to be a fullstack.<br>
+HTML, CSS, Bootstrap, JavasCript, React JS, Python, MySQL, SQLite, Flask and SQLAlchemy within others.<br>
+<br>
+Special skills and experience in traditional business and entrepreneurship.
+
+<hr>
+<h2>Contact</h2>
+Find me at twitter as <a href="https://twitter.com/JelvesEmilio">@JelvesEmilio</a> or in my <a href="https://www.linkedin.com/in/emilio-jelves/">Linkedin profile</a>.
