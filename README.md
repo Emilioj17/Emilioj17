@@ -1,8 +1,8 @@
-### Hello 👋
+### <h1>Hello 👋</h1>
 
 <hr>
 
-<h1>My name is <b>Emilio</b>, I'm from Chile and I'm a javascript and python developer.</h1>
+<h2>My name is <b>Emilio</b>, I'm from Chile and I'm a javascript and python developer.</h2>
 
 Currently working for <a href="https://denegocios.cl" target="_blank">denegocios.cl</a> as founder.
 I am looking for experiences in programming.
