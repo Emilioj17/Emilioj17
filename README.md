@@ -16,5 +16,5 @@ Find me at twitter as <a href="https://twitter.com/JelvesEmilio" target="_blank"
 <br>
 <h2>⚙️ GitHub Estadísticas ---- Statistics</h2>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioj17&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioj17&layout=compact&theme=tokyonight&custom_title=Lenguajes%20mas%20Usados%20por%20mi)](https://github.com/Emilioj17)
 
