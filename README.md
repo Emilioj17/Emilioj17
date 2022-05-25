@@ -19,7 +19,4 @@ Find me at twitter as <a href="https://twitter.com/JelvesEmilio" target="_blank"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioj17&layout=compact&theme=tokyonight&custom_title=Lenguajes%20mas%20Usados%20por%20mi)](https://github.com/Emilioj17)
 <br>
 <br>
-<h3 align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=Emilioj17&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
-</h3>
 
