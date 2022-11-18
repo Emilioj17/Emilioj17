@@ -5,12 +5,6 @@ My name is <b>Emilio</b>, I'm from Chile and I'm a javascript and python develop
 Currently working for <a href="https://denegocios.cl" target="_blank">denegocios.cl</a> as founder.
 I am looking for experiences in programming.
 
-<h2>Skills</h2>
-Some JavaScript and Python coding, since 2020. Attempt to be a fullstack.<br>
-HTML, CSS, Bootstrap, JavasCript, React JS, Python, MySQL, SQLite, Flask and SQLAlchemy within others.<br>
-<br>
-Special skills and experience in traditional business and entrepreneurship.
-
 <h2>Contact</h2>
 Find me at twitter as <a href="https://twitter.com/JelvesEmilio" target="_blank">@JelvesEmilio</a> or in my <a href="https://www.linkedin.com/in/emilio-jelves/" target="_blank">Linkedin profile</a>. 
 <br>
