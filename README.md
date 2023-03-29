@@ -10,9 +10,3 @@ Find me at twitter as <a href="https://twitter.com/JelvesEmilio" target="_blank"
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioj17&langs_count=10" />
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioj17&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-
